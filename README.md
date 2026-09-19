@@ -5,6 +5,7 @@
 ## Estrutura do projeto
 
 ### Física
+
 - Fundamentos
 - Experimentos
 - Laboratórios
@@ -14,6 +15,7 @@
 - Simulações
 
 ### Ciência e Física de Dados
+
 - Coleta de Dados
 - Tratamento de Dados
 - Análise de Dados
@@ -22,6 +24,7 @@
 - Machine Learning
 
 ### Projetos
+
 
 ## Ambiente computacional
 
